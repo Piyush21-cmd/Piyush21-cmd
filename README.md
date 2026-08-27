@@ -1,18 +1,18 @@
 # Hi there, I'm Piyush 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=435&lines=Full+Stack+Developer;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=435&lines=Python+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-* 🎓 B.Tech in **Computer Technology**, Priyadarshini College of Engineering, Nagpur (Class of 2027)
+* 🎓 MCA in **Computer Technology**, Suryodaya College of Engineering & Technology (SCET), Nagpur (Class of 2027)
 * 💻 Currently building projects with **Python, JavaScript, Node.js & MongoDB**
-* 🌱 Actively learning full-stack development and sharpening my DSA skills
+* 🌱 Actively learning Project development and strengthening my sql fundamentals 
 * 🎯 Looking for **fresher Software / IT roles**
-* ⚡ Fun fact: I enjoy turning ideas into working web apps from scratch
+* ⚡ Fun fact: I Love to make the simple python project that assists in my regular activity 
 
 ---
 
@@ -31,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
 #### 💛 MERN Stack
